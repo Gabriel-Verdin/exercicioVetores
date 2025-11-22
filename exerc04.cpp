@@ -1,3 +1,7 @@
+// Escreva um programa, que leia um vetor N(8), 
+// encontre, a seguir, o menor elemento 
+// e a sua posição e escreva: "O menor elemento de N é = ... e a sua posição é ... ".
+
 #include<stdio.h>
 int main() {
 

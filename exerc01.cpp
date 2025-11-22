@@ -1,3 +1,6 @@
+// Faça um programa, que leia um vetor chamado NUMERO de 6 posições, 
+// conte quantos valores são negativos  e escreva essa informação. 
+
 #include<stdio.h>
 int main() {
 

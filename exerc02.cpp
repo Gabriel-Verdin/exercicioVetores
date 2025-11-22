@@ -1,3 +1,6 @@
+// Escreva um programa, que lê um vetor A(10) 
+// e escreva a posição de cada elemento igual a 10 deste vetor.
+
 #include<stdio.h>
 int main() {
 
